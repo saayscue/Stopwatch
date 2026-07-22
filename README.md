@@ -1,11 +1,12 @@
 # Stopwatch
 
-A digital 12‑hour clock that displays the current local time with AM/PM.
+A stopwatch that displays start, stop, and reset buttons.
 
 ## What it does
 
-- Shows the time with hours, minutes, and seconds
-- Updates every second without reloading the page
+- Shows the hours, minutes, and seconds
+- Updates without reloading the page
+-  When start is clicked, the time with start; when stop is clciked the time with stop; and when reset is clicked the time will display 00:00:00
 
 ## Run locally
 
