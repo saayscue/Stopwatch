@@ -6,7 +6,7 @@ A stopwatch that displays start, stop, and reset buttons.
 
 - Shows the hours, minutes, and seconds
 - Updates without reloading the page
--  When start is clicked, the time with start; when stop is clciked the time with stop; and when reset is clicked the time will display 00:00:00
+-  When start is clicked, the time with start; when stop is clicked the time with stop; and when reset is clicked the time will display 00:00:00
 
 ## Run locally
 
